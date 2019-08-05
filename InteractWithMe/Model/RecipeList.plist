@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>photoDescription</key>
+		<string>Delicious Fried Rice</string>
+		<key>name</key>
+		<string>Fried Rice with Goat Meat</string>
+		<key>price</key>
+		<string>Rp 55,000</string>
+		<key>imageName</key>
+		<string>food1</string>
+		<key>prepTime</key>
+		<integer>3</integer>
+		<key>cookTime</key>
+		<integer>5</integer>
+		<key>yield</key>
+		<integer>4</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Rice</string>
+			<string>Goat met 150gr</string>
+			<string>Sugar</string>
+		</array>
+		<key>directions</key>
+		<array>
+			<string>Fried the rice until it burned</string>
+			<string>Slice the goat meat</string>
+			<string>Add sugar</string>
+			<string>Add Ketchup</string>
+			<string>Add water</string>
+			<string>Ready to serve!</string>
+		</array>
+	</dict>
+	<dict>
+		<key>photoDescription</key>
+		<string>thirst relieving tea</string>
+		<key>name</key>
+		<string>Ice Tea</string>
+		<key>price</key>
+		<string>Rp 5,000</string>
+		<key>imageName</key>
+		<string>food2</string>
+		<key>prepTime</key>
+		<integer>85</integer>
+		<key>cookTime</key>
+		<integer>30</integer>
+		<key>yield</key>
+		<integer>4</integer>
+		<key>ingredients</key>
+		<array>
+			<string>3 cups of sugar</string>
+			<string>ice rocks</string>
+			<string>tea</string>
+			<string>Stir until it looks and taste good</string>
+		</array>
+		<key>directions</key>
+		<array>
+			<string>Prepare the sugar if you like sweat</string>
+			<string>Prepare ice rocks</string>
+			<string>Put the tea inside and stir it.</string>
+		</array>
+	</dict>
+	<dict>
+		<key>photoDescription</key>
+		<string>Oval in shape, green avocado, red tomato, crunchy, sprinkles of cheese.</string>
+		<key>name</key>
+		<string>Half Baked Pizza</string>
+		<key>price</key>
+		<string>Rp 100,000</string>
+		<key>imageName</key>
+		<string>food5</string>
+		<key>prepTime</key>
+		<integer>20</integer>
+		<key>cookTime</key>
+		<integer>5</integer>
+		<key>yield</key>
+		<integer>25</integer>
+		<key>ingredients</key>
+		<array>
+			<string>2 green avocados</string>
+			<string>a tablespoon of chopped cilantro</string>
+			<string>tablespoon of lime juice</string>
+			<string>tablespoon of salt</string>
+			<string>1 peeled garlic</string>
+			<string>8 inch pre-baked pizza crust</string>
+			<string>1 tablespoon of organic olive oil</string>
+			<string>1 cup of sliced tomatoes</string>
+			<string>1 cup of shredded pepper jack cheese</string>
+			<string>1 red pepper chopped up</string>
+		</array>
+		<key>directions</key>
+		<array>
+			<string>Preheat oven 450 degrees.</string>
+			<string>Mix the avocados and cilantros together.</string>
+			<string>Puree while adding the table spoon of salt and juice, once done cover it and set it aside.</string>
+			<string>Next slice the garlic clove and rub it on the pizza crust. This gives the pizza some flavor. Next use a brush to brush the crust wth the orgnaic olive oil. </string>
+			<string>Now spread the advocado you mixed over the top of the crush, and arrange the cilantro and tomoatos on top. Lastly sprinkle the cheese and season with any kind of pepper you want.</string>
+			<string>Place the pizza on a baking sheet.</string>
+			<string>Broil for about 5 minutes in the preheated oven, or when you see that the crust loooks toasted. Take it out and EAT!!!</string>
+		</array>
+	</dict>
+	<dict>
+		<key>photoDescription</key>
+		<string>Durian Fruit Soup</string>
+		<key>name</key>
+		<string>Durian Fruit Soup</string>
+		<key>price</key>
+		<string>Rp 45,000</string>
+		<key>imageName</key>
+		<string>food3</string>
+		<key>prepTime</key>
+		<integer>20</integer>
+		<key>cookTime</key>
+		<integer>10</integer>
+		<key>yield</key>
+		<integer>18</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Fruits</string>
+			<string>Durian</string>
+			<string>Milk</string>
+		</array>
+		<key>directions</key>
+		<array>
+			<string>Cut the fruits</string>
+			<string>Add Durian on a top of fruits</string>
+			<string>Ready to drunk</string>
+		</array>
+	</dict>
+	<dict>
+		<key>photoDescription</key>
+		<string>chocolate toast</string>
+		<key>name</key>
+		<string>chocolate toast</string>
+		<key>New item</key>
+		<string>Rp 25,000</string>
+		<key>imageName</key>
+		<string>food4</string>
+		<key>prepTime</key>
+		<integer>20</integer>
+		<key>cookTime</key>
+		<integer>10</integer>
+		<key>yield</key>
+		<integer>18</integer>
+		<key>ingredients</key>
+		<array>
+			<string>Toast</string>
+			<string>Chocolate jam</string>
+			<string>Cheedar cheese</string>
+		</array>
+		<key>directions</key>
+		<array>
+			<string>Preheat oven to 400 degrees F. Lightly oil a baking sheet or coat with nonstick spray.</string>
+			<string>Slice the toast up nicely</string>
+			<string>Add flour into a bowl, mix with zucchini</string>
+			<string>Next add 1 teaspoon of salt, also sprinkle some garlic powder, paprika and black pepper</string>
+		</array>
+	</dict>
+</array>
+</plist>
